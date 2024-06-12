@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @krusticecek
+- 👋 Hi, I’m Kryštof Knápek
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning React, Angular
 - 💞️ I’m looking to collaborate on projects that will increase my skill
-- 📫 How to reach me ...
+
 
 <!---
 krusticecek/krusticecek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
